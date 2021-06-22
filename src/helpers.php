@@ -31,7 +31,7 @@ if (!function_exists('asset')) {
     }
 }
 
-if (!function_exists('asset')) {
+if (!function_exists('mix')) {
     /**
      * Create a new redirect response to the previous location.
      *
