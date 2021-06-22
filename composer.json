@@ -12,5 +12,10 @@
             "name": "louis",
             "email": "louis.zhan.tidy@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
 }
